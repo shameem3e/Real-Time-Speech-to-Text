@@ -1,0 +1,7 @@
+faster-whisper
+vosk
+sounddevice
+soundfile
+numpy
+pydub
+tqdm
